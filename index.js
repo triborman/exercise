@@ -13,3 +13,7 @@ function bingo(x) {
 }
 bingo(4);
 bingo(7);
+
+const exercise = () => {
+  return <div> Put Text</div>;
+};
